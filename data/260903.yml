@@ -1,0 +1,62 @@
+about:
+  description: A modular graph-based Retrieval-Augmented Generation (RAG) system
+  license: MIT
+  homepage: https://microsoft.github.io/graphrag/
+  head: f40e9a2
+  archived: false
+  latestVersion: v3.1.2
+  collectedAt: 2026-09-03T04:51:00Z
+timeline:
+  created: 2024-03-27
+  lastCommit: 2026-08-24
+  lastRelease: 2026-08-21
+popularity:
+  star: 35803
+  watcher: 206
+  fork: 3756
+  release: 42
+  contributor: 10000
+  pullRequest: 559
+  issue: 842
+language:
+  Python: 1715780
+  Jupyter Notebook: 223928
+  TypeScript: 2814
+  Dockerfile: 572
+  Shell: 508
+  Jinja: 143
+  HTML: 85
+totalLine: 1943830
+recent:
+  last30d:
+    since: 2026-08-04
+    release: 1
+    mergedPR: 13
+    openPR: 7
+    closedIssue: 11
+    openIssue: 2
+    commit: 13
+  last90d:
+    since: 2026-06-05
+    release: 2
+    mergedPR: 23
+    openPR: 12
+    closedIssue: 16
+    openIssue: 4
+    commit: 23
+  last180d:
+    since: 2026-03-07
+    release: 6
+    mergedPR: 38
+    openPR: 33
+    closedIssue: 38
+    openIssue: 4
+    commit: 36
+  last360d:
+    since: 2025-09-08
+    release: 15
+    mergedPR: 127
+    openPR: 38
+    closedIssue: 92
+    openIssue: 5
+    commit: 88
