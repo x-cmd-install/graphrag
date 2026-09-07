@@ -5,18 +5,18 @@ about:
   head: f40e9a2
   archived: false
   latestVersion: "v3.1.2"
-  collectedAt: 2026-09-07T05:21:05Z
+  collectedAt: 2026-09-07T19:04:56Z
 timeline:
   created: 2024-03-27
   lastCommit: 2026-08-24
   lastRelease: 2026-08-21
 popularity:
-  star: 35864
+  star: 35875
   watcher: 207
-  fork: 3772
+  fork: 3774
   release: 42
-  contributor: 4339
-  pullRequest: 1319
+  contributor: 4340
+  pullRequest: 1328
   issue: 846
 language:
   Python: 1715780
@@ -32,7 +32,7 @@ recent:
     since: 2026-08-08
     release: 1
     mergedPR: 13
-    openPR: 2
+    openPR: 11
     closedIssue: 11
     openIssue: 6
     commit: 11
@@ -40,7 +40,7 @@ recent:
     since: 2026-07-09
     release: 2
     mergedPR: 23
-    openPR: 3
+    openPR: 12
     closedIssue: 12
     openIssue: 6
     commit: 20
@@ -48,7 +48,7 @@ recent:
     since: 2026-06-09
     release: 2
     mergedPR: 23
-    openPR: 7
+    openPR: 16
     closedIssue: 16
     openIssue: 8
     commit: 23
@@ -56,7 +56,7 @@ recent:
     since: 2026-03-11
     release: 6
     mergedPR: 38
-    openPR: 27
+    openPR: 36
     closedIssue: 36
     openIssue: 8
     commit: 36
@@ -64,7 +64,7 @@ recent:
     since: 2025-09-12
     release: 15
     mergedPR: 123
-    openPR: 33
+    openPR: 42
     closedIssue: 90
     openIssue: 9
     commit: 87
@@ -72,20 +72,20 @@ recent:
     since: 2024-09-17
     release: 34
     mergedPR: 367
-    openPR: 33
+    openPR: 42
     closedIssue: 397
     openIssue: 9
     commit: 328
 total:
   release: 42
   mergedPR: 759
-  openPR: 33
+  openPR: 42
   closedIssue: 837
   openIssue: 9
   commit: 491
 ---
 path: /home/runner/.x-repo/github.com/microsoft/graphrag
-collectedAt: 2026-09-07T05:21:18Z
+collectedAt: 2026-09-07T19:05:09Z
 loc:
   Python:
     code: 40817
@@ -161,7 +161,7 @@ total:
 
 ---
 eget:
-  collectedAt: 2026-09-07T05:21:19+00:00
+  collectedAt: 2026-09-07T19:05:10+00:00
   platform:
     darwin/arm64:
       name:  null
