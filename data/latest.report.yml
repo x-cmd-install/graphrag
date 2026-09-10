@@ -7,7 +7,7 @@ about:
   latestVersion: "v3.1.2"
   latestRelease: "v3.1.2"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T05:12:00Z
+  collectedAt: 2026-09-10T17:28:19Z
 timeline:
   created: 2024-03-27
   lastCommit: 2026-08-24
@@ -15,11 +15,11 @@ timeline:
   lastRelease: 2026-08-21
   lastPrerelease: 
 popularity:
-  star: 35920
+  star: 35925
   watcher: 205
-  fork: 3778
+  fork: 3779
   release: 42
-  contributor: 4331
+  contributor: 4332
   pullRequest: 1329
   issue: 848
 language:
@@ -89,7 +89,7 @@ total:
   commit: 491
 ---
 path: /home/runner/.x-repo/github.com/microsoft/graphrag
-collectedAt: 2026-09-10T05:12:12Z
+collectedAt: 2026-09-10T17:28:43Z
 loc:
   Python:
     code: 40817
