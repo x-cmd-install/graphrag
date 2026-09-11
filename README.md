@@ -37,7 +37,7 @@ Total: **51,996** lines of code across **647** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 35,937 · **Forks**: 3,781 · **Open issues**: 848 · **Contributors**: 4,328
+- **Stars**: 35,946 · **Forks**: 3,782 · **Open issues**: 848 · **Contributors**: 4,331
 
 ## Totals (cumulative)
 
@@ -63,4 +63,4 @@ Install metadata for graphrag lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260911.yml` · 2026-09-11T05:13:11Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T19:53:23Z._
