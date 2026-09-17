@@ -164,4 +164,3 @@ total:
 ---
 
 ---
-{"id":374498063,"author":{"login":"dworthen","id":624870,"node_id":"MDQ6VXNlcjYyNDg3MA==","gravatar_id":"","type":"User","user_view_type":"public","site_admin":false},"node_id":"RE_kwDOLmXsJc4WUmMP","tag_name":"v3.1.2","target_commitish":"main","name":"v3.1.2","draft":false,"immutable":false,"prerelease":false,"created_at":"2026-08-21T14:41:18Z","updated_at":"2026-08-21T15:24:30Z","published_at":"2026-08-21T15:24:30Z","assets":[],"body":"## What's Changed\r\n- patch: Change default package feed index.\r\n- patch: Fix doc string parameters.\r\n- patch: Preserve caller event loops in synchronous LLM cache middleware.\r\n- patch: Update dependencies to latest versions (dependency sweep).\r\n\r\n**Full Changelog**: https://github.com/microsoft/graphrag/compare/3.1.1...v3.1.2","reactions":{"total_count":2,"+1":2,"-1":0,"laugh":0,"hooray":0,"confused":0,"heart":0,"rocket":0,"eyes":0}}
