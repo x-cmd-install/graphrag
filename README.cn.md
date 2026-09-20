@@ -4,7 +4,7 @@
 
 A modular graph-based Retrieval-Augmented Generation (RAG) system
 
-![graphrag](https://repo.x-cmd.io/graphrag.svg?lang=zh)
+[![x-cmd/install — graphrag Code Quality Monitoring Repo Card](https://repo.x-cmd.io/graphrag.svg?lang=zh)](https://x-cmd.com/install/graphrag)
 
 ## 安装
 
@@ -37,22 +37,22 @@ x install graphrag
 
 ## 流行度
 
-- **Star**: 36,022 · **Fork**: 3,795 · **开放 issue**: 848 · **贡献者**: 4,325
+- **Star**: 36,035 · **Fork**: 3,794 · **开放 issue**: 848 · **贡献者**: 4,317
 
 ## 累计统计
 
-- **发布数**: 42 · **已合并 PR**: 760 · **开放 PR**: 31 · **已关闭 issue**: 841 · **开放 issue**: 7 · **提交数**: 492
+- **发布数**: 42 · **已合并 PR**: 760 · **开放 PR**: 32 · **已关闭 issue**: 841 · **开放 issue**: 7 · **提交数**: 492
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 1 | 4 | 0 | 8 | 4 | 5 |
-| last60d | 2026-07-20 | 1 | 14 | 0 | 16 | 4 | 14 |
-| 90d | 2026-06-20 | 2 | 24 | 4 | 20 | 5 | 24 |
-| last180d | 2026-03-22 | 6 | 38 | 24 | 37 | 6 | 36 |
-| 360d | 2025-09-23 | 14 | 116 | 31 | 91 | 7 | 81 |
-| last720d | 2024-09-28 | 32 | 340 | 31 | 381 | 7 | 299 |
+| 30d | 2026-08-21 | 1 | 3 | 1 | 7 | 4 | 5 |
+| last60d | 2026-07-22 | 1 | 14 | 1 | 16 | 4 | 14 |
+| 90d | 2026-06-22 | 2 | 24 | 4 | 20 | 5 | 24 |
+| last180d | 2026-03-24 | 6 | 36 | 25 | 36 | 6 | 36 |
+| 360d | 2025-09-25 | 14 | 115 | 32 | 88 | 7 | 81 |
+| last720d | 2024-09-30 | 32 | 336 | 32 | 378 | 7 | 299 |
 
 ## 改进这些数据
 
@@ -63,4 +63,4 @@ graphrag 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install)
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260918.yml` · 2026-09-18T05:32:22Z._
+_数据快照: `data/card/260920.yml` · 2026-09-20T05:33:35Z._
