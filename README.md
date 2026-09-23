@@ -4,7 +4,7 @@
 
 A modular graph-based Retrieval-Augmented Generation (RAG) system
 
-[![x-cmd/install — graphrag Code Quality Monitoring Repo Card](https://repo.x-cmd.io/graphrag.svg)](https://x-cmd.com/install/graphrag)
+[![x-cmd/install — graphrag Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/graphrag.svg)](https://x-cmd.com/install/graphrag)
 
 ## Install
 
@@ -37,22 +37,22 @@ Total: **51,996** lines of code across **647** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 36,062 · **Forks**: 3,797 · **Open issues**: 849 · **Contributors**: 4,319
+- **Stars**: 36,076 · **Forks**: 3,799 · **Open issues**: 850 · **Contributors**: 4,321
 
 ## Totals (cumulative)
 
-- **Releases**: 42 · **Merged PRs**: 761 · **Open PRs**: 32 · **Closed issues**: 842 · **Open issues**: 7 · **Commits**: 493
+- **Releases**: 42 · **Merged PRs**: 761 · **Open PRs**: 32 · **Closed issues**: 842 · **Open issues**: 8 · **Commits**: 493
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 0 | 4 | 1 | 6 | 4 | 2 |
-| last60d | 2026-07-24 | 1 | 15 | 1 | 16 | 4 | 15 |
-| 90d | 2026-06-24 | 2 | 25 | 3 | 21 | 5 | 25 |
-| last180d | 2026-03-26 | 5 | 37 | 25 | 37 | 6 | 32 |
-| 360d | 2025-09-27 | 14 | 116 | 32 | 88 | 7 | 82 |
-| last720d | 2024-10-02 | 32 | 334 | 32 | 378 | 7 | 296 |
+| 30d | 2026-08-24 | 0 | 2 | 1 | 5 | 5 | 2 |
+| last60d | 2026-07-25 | 1 | 15 | 1 | 16 | 5 | 15 |
+| 90d | 2026-06-25 | 2 | 25 | 3 | 20 | 6 | 25 |
+| last180d | 2026-03-27 | 5 | 33 | 25 | 36 | 7 | 32 |
+| 360d | 2025-09-28 | 14 | 116 | 32 | 88 | 8 | 82 |
+| last720d | 2024-10-03 | 32 | 333 | 32 | 373 | 8 | 295 |
 
 ## Improve this data
 
@@ -63,4 +63,4 @@ Install metadata for graphrag lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T05:51:56Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T05:23:33Z._
