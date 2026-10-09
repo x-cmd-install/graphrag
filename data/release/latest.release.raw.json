@@ -1,9 +1,9 @@
 {
-  "url": "https://api.github.com/repos/microsoft/graphrag/releases/395255215",
-  "assets_url": "https://api.github.com/repos/microsoft/graphrag/releases/395255215/assets",
-  "upload_url": "https://uploads.github.com/repos/microsoft/graphrag/releases/395255215/assets{?name,label}",
-  "html_url": "https://github.com/microsoft/graphrag/releases/tag/v3.2.0",
-  "id": 395255215,
+  "url": "https://api.github.com/repos/microsoft/graphrag/releases/407141936",
+  "assets_url": "https://api.github.com/repos/microsoft/graphrag/releases/407141936/assets",
+  "upload_url": "https://uploads.github.com/repos/microsoft/graphrag/releases/407141936/assets{?name,label}",
+  "html_url": "https://github.com/microsoft/graphrag/releases/tag/v3.3.0",
+  "id": 407141936,
   "author": {
     "login": "gaudyb",
     "id": 85708998,
@@ -25,33 +25,21 @@
     "user_view_type": "public",
     "site_admin": false
   },
-  "node_id": "RE_kwDOLmXsJc4Xjx2v",
-  "tag_name": "v3.2.0",
+  "node_id": "RE_kwDOLmXsJc4YRH4w",
+  "tag_name": "v3.3.0",
   "target_commitish": "main",
-  "name": "v3.2.0",
+  "name": "v3.3.0",
   "draft": false,
   "immutable": false,
   "prerelease": false,
-  "created_at": "2026-09-23T22:13:34Z",
-  "updated_at": "2026-09-24T02:25:49Z",
-  "published_at": "2026-09-24T02:25:49Z",
+  "created_at": "2026-10-08T18:24:13Z",
+  "updated_at": "2026-10-08T18:28:43Z",
+  "published_at": "2026-10-08T18:28:43Z",
   "assets": [
 
   ],
-  "tarball_url": "https://api.github.com/repos/microsoft/graphrag/tarball/v3.2.0",
-  "zipball_url": "https://api.github.com/repos/microsoft/graphrag/zipball/v3.2.0",
-  "body": "## What's Changed\r\n* Change default package feed index. by @dworthen in https://github.com/microsoft/graphrag/pull/2483\r\n* Fix/cache event loop lifecycle by @dworthen in https://github.com/microsoft/graphrag/pull/2484\r\n* Pr 2481/danfiedler/pin actions by @dworthen in https://github.com/microsoft/graphrag/pull/2485\r\n* Add notice. by @dworthen in https://github.com/microsoft/graphrag/pull/2486\r\n* Pr 2480/docs/spelling sweep by @dworthen in https://github.com/microsoft/graphrag/pull/2487\r\n* Local search notebook by @dworthen in https://github.com/microsoft/graphrag/pull/2488\r\n* Update contributing doc. by @dworthen in https://github.com/microsoft/graphrag/pull/2500\r\n* Automate dependency updates. by @dworthen in https://github.com/microsoft/graphrag/pull/2507\r\n* Fix update-deps skill to work with msft feed. by @dworthen in https://github.com/microsoft/graphrag/pull/2510\r\n* Dependency update sweep by @dworthen with @Copilot in https://github.com/microsoft/graphrag/pull/2516\r\n* Release v3.1.2 by @dworthen in https://github.com/microsoft/graphrag/pull/2519\r\n* Update dependencies to latest versions (dependency sweep) by @dworthen with @Copilot in https://github.com/microsoft/graphrag/pull/2523\r\n* Cleanup by @dworthen in https://github.com/microsoft/graphrag/pull/2528\r\n* Update dependencies to latest versions (dependency sweep) by @dworthen with @Copilot in https://github.com/microsoft/graphrag/pull/2558\r\n* Update dependencies sweep by @dworthen with @Copilot in https://github.com/microsoft/graphrag/pull/2563\r\n* new cache implementation by @gaudyb in https://github.com/microsoft/graphrag/pull/2570\r\n* Release v3.2.0 by @gaudyb in https://github.com/microsoft/graphrag/pull/2572\r\n\r\n\r\n**Full Changelog**: https://github.com/microsoft/graphrag/compare/v3.1.1...v3.2.0",
-  "reactions": {
-    "url": "https://api.github.com/repos/microsoft/graphrag/releases/395255215/reactions",
-    "total_count": 2,
-    "+1": 0,
-    "-1": 0,
-    "laugh": 0,
-    "hooray": 2,
-    "confused": 0,
-    "heart": 0,
-    "rocket": 0,
-    "eyes": 0
-  },
-  "mentions_count": 2
+  "tarball_url": "https://api.github.com/repos/microsoft/graphrag/tarball/v3.3.0",
+  "zipball_url": "https://api.github.com/repos/microsoft/graphrag/zipball/v3.3.0",
+  "body": "## What's Changed\r\n* fix sqlite performance issue by @gaudyb in https://github.com/microsoft/graphrag/pull/2591\r\n* Release v3.3.0 by @gaudyb in https://github.com/microsoft/graphrag/pull/2592\r\n\r\n\r\n**Full Changelog**: https://github.com/microsoft/graphrag/compare/v3.2.0...v3.3.0",
+  "mentions_count": 1
 }
