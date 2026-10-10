@@ -164,4 +164,3 @@ total:
 ---
 
 ---
-{"id":407141936,"author":{"login":"gaudyb","id":85708998,"node_id":"MDQ6VXNlcjg1NzA4OTk4","gravatar_id":"","type":"User","user_view_type":"public","site_admin":false},"node_id":"RE_kwDOLmXsJc4YRH4w","tag_name":"v3.3.0","target_commitish":"main","name":"v3.3.0","draft":false,"immutable":false,"prerelease":false,"created_at":"2026-10-08T18:24:13Z","updated_at":"2026-10-08T18:28:43Z","published_at":"2026-10-08T18:28:43Z","assets":[],"body":"## What's Changed\r\n* fix sqlite performance issue by @gaudyb in https://github.com/microsoft/graphrag/pull/2591\r\n* Release v3.3.0 by @gaudyb in https://github.com/microsoft/graphrag/pull/2592\r\n\r\n\r\n**Full Changelog**: https://github.com/microsoft/graphrag/compare/v3.2.0...v3.3.0","mentions_count":1}
