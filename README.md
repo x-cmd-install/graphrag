@@ -33,26 +33,26 @@ Total: **52,675** lines of code across **652** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v3.3.0` (2026-10-08)
-- **Last commit**: 2026-10-08
+- **Last commit**: 2026-10-20
 
 ## Popularity
 
-- **Stars**: 36,389 · **Forks**: 3,859 · **Open issues**: 866 · **Contributors**: 4,315
+- **Stars**: 36,397 · **Forks**: 3,862 · **Open issues**: 866 · **Contributors**: 4,314
 
 ## Totals (cumulative)
 
-- **Releases**: 44 · **Merged PRs**: 765 · **Open PRs**: 33 · **Closed issues**: 842 · **Open issues**: 24 · **Commits**: 497
+- **Releases**: 44 · **Merged PRs**: 765 · **Open PRs**: 32 · **Closed issues**: 842 · **Open issues**: 24 · **Commits**: 498
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-20 | 2 | 5 | 3 | 1 | 17 | 2 |
-| last60d | 2026-08-21 | 3 | 8 | 3 | 8 | 21 | 6 |
-| 90d | 2026-07-22 | 3 | 19 | 3 | 17 | 21 | 19 |
-| last180d | 2026-04-23 | 5 | 33 | 22 | 30 | 23 | 33 |
-| 360d | 2025-10-25 | 15 | 106 | 33 | 80 | 24 | 82 |
-| last720d | 2024-10-30 | 34 | 309 | 33 | 354 | 24 | 273 |
+| 30d | 2026-09-21 | 2 | 4 | 2 | 0 | 17 | 3 |
+| last60d | 2026-08-22 | 2 | 8 | 2 | 8 | 21 | 7 |
+| 90d | 2026-07-23 | 3 | 19 | 2 | 16 | 21 | 20 |
+| last180d | 2026-04-24 | 5 | 33 | 21 | 30 | 23 | 34 |
+| 360d | 2025-10-26 | 15 | 106 | 32 | 80 | 24 | 83 |
+| last720d | 2024-10-31 | 34 | 307 | 32 | 354 | 24 | 272 |
 
 ## Improve this data
 
@@ -63,4 +63,4 @@ Install metadata for graphrag lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261020.yml` · 2026-10-20T05:16:04Z._
+_Snapshot: `data/card/261021.yml` · 2026-10-21T05:05:19Z._
