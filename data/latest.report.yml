@@ -7,7 +7,7 @@ about:
   latestVersion: "v3.3.0"
   latestRelease: "v3.3.0"
   latestPrerelease: ""
-  collectedAt: 2026-10-29T06:21:53Z
+  collectedAt: 2026-10-30T06:26:08Z
 timeline:
   created: 2024-03-27
   lastCommit: 2026-10-20
@@ -15,11 +15,11 @@ timeline:
   lastRelease: 2026-10-08
   lastPrerelease: 
 popularity:
-  star: 36484
+  star: 36496
   watcher: 204
-  fork: 3870
+  fork: 3867
   release: 44
-  contributor: 4327
+  contributor: 4328
   pullRequest: 1363
   issue: 869
 language:
@@ -33,23 +33,23 @@ language:
 totalBytes: 1955026
 recent:
   last30d:
-    since: 2026-09-29
+    since: 2026-09-30
     release: 1
     mergedPR: 2
     openPR: 2
     closedIssue: 0
-    openIssue: 15
+    openIssue: 14
     commit: 3
   last60d:
-    since: 2026-08-30
+    since: 2026-08-31
     release: 2
     mergedPR: 6
     openPR: 2
-    closedIssue: 5
+    closedIssue: 4
     openIssue: 23
     commit: 7
   last90d:
-    since: 2026-07-31
+    since: 2026-08-01
     release: 3
     mergedPR: 19
     openPR: 2
@@ -57,7 +57,7 @@ recent:
     openIssue: 23
     commit: 20
   last180d:
-    since: 2026-05-02
+    since: 2026-05-03
     release: 5
     mergedPR: 33
     openPR: 20
@@ -65,21 +65,21 @@ recent:
     openIssue: 25
     commit: 34
   last360d:
-    since: 2025-11-03
+    since: 2025-11-04
     release: 15
-    mergedPR: 106
+    mergedPR: 104
     openPR: 32
     closedIssue: 80
     openIssue: 26
     commit: 83
   last720d:
-    since: 2024-11-08
+    since: 2024-11-09
     release: 33
     mergedPR: 290
     openPR: 32
-    closedIssue: 339
+    closedIssue: 338
     openIssue: 26
-    commit: 255
+    commit: 254
 total:
   release: 44
   mergedPR: 765
@@ -89,7 +89,7 @@ total:
   commit: 498
 ---
 path: /home/runner/.x-repo/github.com/microsoft/graphrag
-collectedAt: 2026-10-29T06:22:06Z
+collectedAt: 2026-10-30T06:26:17Z
 loc:
   Python:
     code: 41496
