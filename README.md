@@ -37,7 +37,7 @@ Total: **52,675** lines of code across **652** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 36,504 · **Forks**: 3,868 · **Open issues**: 869 · **Contributors**: 4,328
+- **Stars**: 36,506 · **Forks**: 3,867 · **Open issues**: 869 · **Contributors**: 4,327
 
 ## Totals (cumulative)
 
@@ -47,12 +47,12 @@ Total: **52,675** lines of code across **652** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-01 | 1 | 2 | 3 | 0 | 14 | 3 |
-| last60d | 2026-09-01 | 2 | 6 | 3 | 4 | 23 | 7 |
-| 90d | 2026-08-02 | 3 | 19 | 3 | 16 | 23 | 20 |
-| last180d | 2026-05-04 | 5 | 33 | 21 | 29 | 25 | 34 |
-| 360d | 2025-11-05 | 15 | 103 | 33 | 80 | 26 | 83 |
-| last720d | 2024-11-10 | 32 | 290 | 33 | 336 | 26 | 254 |
+| 30d | 2026-10-02 | 1 | 2 | 3 | 0 | 14 | 3 |
+| last60d | 2026-09-02 | 2 | 6 | 3 | 4 | 22 | 7 |
+| 90d | 2026-08-03 | 3 | 19 | 3 | 16 | 23 | 20 |
+| last180d | 2026-05-05 | 5 | 33 | 21 | 29 | 25 | 34 |
+| 360d | 2025-11-06 | 15 | 103 | 33 | 79 | 26 | 83 |
+| last720d | 2024-11-11 | 32 | 289 | 33 | 336 | 26 | 254 |
 
 ## Improve this data
 
@@ -63,4 +63,4 @@ Install metadata for graphrag lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261031.yml` · 2026-10-31T06:07:19Z._
+_Snapshot: `data/card/261101.yml` · 2026-11-01T06:29:18Z._
