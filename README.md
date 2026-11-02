@@ -14,7 +14,7 @@ x install graphrag
 
 ## Code insight
 
-Total: **52,675** lines of code across **652** files in the top 5 languages.
+Total: **52,699** lines of code across **652** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
@@ -22,7 +22,7 @@ Total: **52,675** lines of code across **652** files in the top 5 languages.
 | Json | 7,270 | 0 | 0 | 8 |
 | Jupyter | 2,806 | 703 | 736 | 40 |
 | Toml | 639 | 27 | 49 | 11 |
-| Yaml | 301 | 6 | 24 | 14 |
+| Yaml | 325 | 6 | 24 | 14 |
 
 ## Source
 
@@ -33,26 +33,26 @@ Total: **52,675** lines of code across **652** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v3.3.0` (2026-10-08)
-- **Last commit**: 2026-10-20
+- **Last commit**: 2026-11-02
 
 ## Popularity
 
-- **Stars**: 36,506 · **Forks**: 3,867 · **Open issues**: 869 · **Contributors**: 4,327
+- **Stars**: 36,527 · **Forks**: 3,867 · **Open issues**: 870 · **Contributors**: 4,324
 
 ## Totals (cumulative)
 
-- **Releases**: 44 · **Merged PRs**: 765 · **Open PRs**: 33 · **Closed issues**: 843 · **Open issues**: 26 · **Commits**: 498
+- **Releases**: 44 · **Merged PRs**: 766 · **Open PRs**: 33 · **Closed issues**: 843 · **Open issues**: 27 · **Commits**: 499
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-02 | 1 | 2 | 3 | 0 | 14 | 3 |
-| last60d | 2026-09-02 | 2 | 6 | 3 | 4 | 22 | 7 |
-| 90d | 2026-08-03 | 3 | 19 | 3 | 16 | 23 | 20 |
-| last180d | 2026-05-05 | 5 | 33 | 21 | 29 | 25 | 34 |
-| 360d | 2025-11-06 | 15 | 103 | 33 | 79 | 26 | 83 |
-| last720d | 2024-11-11 | 32 | 289 | 33 | 336 | 26 | 254 |
+| 30d | 2026-10-03 | 1 | 3 | 3 | 0 | 15 | 2 |
+| last60d | 2026-09-03 | 2 | 7 | 3 | 4 | 21 | 8 |
+| 90d | 2026-08-04 | 3 | 20 | 3 | 16 | 24 | 21 |
+| last180d | 2026-05-06 | 5 | 34 | 21 | 29 | 26 | 35 |
+| 360d | 2025-11-07 | 15 | 104 | 33 | 79 | 27 | 84 |
+| last720d | 2024-11-12 | 32 | 290 | 33 | 333 | 27 | 255 |
 
 ## Improve this data
 
@@ -63,4 +63,4 @@ Install metadata for graphrag lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261101.yml` · 2026-11-01T06:29:18Z._
+_Snapshot: `data/card/261102.yml` · 2026-11-02T06:30:56Z._
