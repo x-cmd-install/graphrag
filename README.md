@@ -14,11 +14,11 @@ x install graphrag
 
 ## Code insight
 
-Total: **52,699** lines of code across **652** files in the top 5 languages.
+Total: **52,696** lines of code across **652** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 41,496 | 2,024 | 8,126 | 579 |
+| Python | 41,493 | 2,024 | 8,126 | 579 |
 | Json | 7,270 | 0 | 0 | 8 |
 | Jupyter | 2,806 | 703 | 736 | 40 |
 | Toml | 639 | 27 | 49 | 11 |
@@ -33,26 +33,26 @@ Total: **52,699** lines of code across **652** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v3.3.0` (2026-10-08)
-- **Last commit**: 2026-11-02
+- **Last commit**: 2026-11-25
 
 ## Popularity
 
-- **Stars**: 36,748 · **Forks**: 3,890 · **Open issues**: 880 · **Contributors**: 4,360
+- **Stars**: 36,759 · **Forks**: 3,890 · **Open issues**: 880 · **Contributors**: 4,364
 
 ## Totals (cumulative)
 
-- **Releases**: 44 · **Merged PRs**: 766 · **Open PRs**: 37 · **Closed issues**: 843 · **Open issues**: 37 · **Commits**: 499
+- **Releases**: 44 · **Merged PRs**: 767 · **Open PRs**: 32 · **Closed issues**: 852 · **Open issues**: 28 · **Commits**: 500
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-26 | 0 | 1 | 7 | 0 | 12 | 1 |
-| last60d | 2026-09-26 | 1 | 3 | 8 | 0 | 28 | 4 |
-| 90d | 2026-08-27 | 2 | 7 | 8 | 5 | 34 | 8 |
-| last180d | 2026-05-29 | 4 | 30 | 24 | 24 | 36 | 31 |
-| 360d | 2025-11-30 | 15 | 99 | 37 | 71 | 37 | 84 |
-| last720d | 2024-12-05 | 31 | 274 | 37 | 306 | 37 | 240 |
+| 30d | 2026-10-27 | 0 | 2 | 3 | 4 | 7 | 2 |
+| last60d | 2026-09-27 | 1 | 4 | 3 | 9 | 18 | 5 |
+| 90d | 2026-08-28 | 2 | 8 | 3 | 14 | 25 | 9 |
+| last180d | 2026-05-30 | 4 | 31 | 7 | 31 | 27 | 32 |
+| 360d | 2025-12-01 | 15 | 100 | 32 | 80 | 28 | 85 |
+| last720d | 2024-12-06 | 31 | 273 | 32 | 313 | 28 | 237 |
 
 ## Improve this data
 
@@ -63,4 +63,4 @@ Install metadata for graphrag lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261125.yml` · 2026-11-25T08:55:38Z._
+_Snapshot: `data/card/261126.yml` · 2026-11-26T09:31:02Z._
